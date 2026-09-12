@@ -1,0 +1,10 @@
+ollama
+opencv-python
+mss
+PyQt5
+PyQtWebEngine
+pywin32
+pygetwindow
+keyboard
+numpy
+pillow
